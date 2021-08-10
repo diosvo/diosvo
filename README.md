@@ -1,6 +1,6 @@
 👋 Hi, I’m @diosvo from 🇻🇳
 
-⚡ My pet project:  https://diosvo.herokuapp.com
+⚡ My pet project:  https://diosvo.netlify.app/
 
 🚀 0 - 2 - 1
 
