@@ -1,12 +1,16 @@
 👋 Hi, I’m @diosvo from 🇻🇳
 
-⚡ My pet project:  https://diosvo.netlify.app/
+⚡ My pet projects:
 
-🚀 0 - 2 - 1
+Angular: https://diosvo.netlify.app
+
+Angular CDK: https://angular-cdk-practice.netlify.app
+
+🚀 02#1
 
 👨‍💻 The best never rest
 
-🏀 DV9 will be back on the court
+🏀 DV#9 will be back on the court
 
 <!---
 diosvo/diosvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
