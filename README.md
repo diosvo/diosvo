@@ -1,12 +1,12 @@
-👋 Hi, I’m @diosvo from 🇻🇳
+🇻🇳 I'm Dios Vo, from the VN and currently live in Ho Chi Minh City.
 
-⚡ Team Management project is coming soon...
+💼 I work on all things dev TMA Solutions.
 
-🚀 02#1
+⚡️ I recently built Boroteam Management - a website for all members of the team to be able to see valuable "things"
 
-👨‍💻 The best never rest
+🏀 Enjoy playing basketball - 🎽 #5 
 
-🏀 DV#5 
+💪🏻 The best never rest
 
 <!---
 diosvo/diosvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
