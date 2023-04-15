@@ -1,8 +1,8 @@
 🇻🇳 I'm Dios Vo, from the VN and currently live in Ho Chi Minh City.
 
-💼 I work on all things dev TMA Solutions.
+💼 I work on all things dev at TMA Solutions.
 
-⚡️ I recently built Boroteam Management - a website for all members of the team to be able to see valuable "things"
+⚡️ I'm building Boroteam Management - a website for all members of the team to be able to see valuable "things"
 
 🏀 Enjoy playing basketball - 🎽 #5 
 
