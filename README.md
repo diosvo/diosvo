@@ -2,7 +2,7 @@
 
 💼 I work on all things dev at TMA Solutions.
 
-⚡️ I'm building Boroteam Management - a website for all members of the team to be able to see valuable "things"
+⚡️ I'm building Team Management - a website for all members of the team to be able to see valuable "things"
 
 🏀 Enjoy playing basketball - 🎽 #5 
 
