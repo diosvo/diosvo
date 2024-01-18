@@ -1,14 +1,11 @@
+"The best never rest"
+
 🇻🇳 I'm Dios Vo, from the VN and currently live in Ho Chi Minh City.
 
 💼 I work on all things dev at TMA Solutions.
 
-⚡️ I'm building Team Management - a website for all members of the team to be able to see valuable "things"
-
 🏀 Enjoy playing basketball - 🎽 #5 
 
-💪🏻 The best never rest
+---
 
-<!---
-diosvo/diosvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/diosvo"><img src="https://api.daily.dev/devcards/ee9296dda8324fa19e3878cab7d4489c.png?r=yin" width="400" alt="Dios Vo's Dev Card"/></a>
